@@ -137,18 +137,11 @@ A suggested repository structure is shown below. File names may be adjusted to m
 comparative-explainable-microplastic-detection/
 │
 ├── README.md
-├── notebooks/
-│   └── comparative_explainable_microplastic_detection.ipynb
+├ comparative_explainable_microplastic_detection.ipynb
 │
-├── outputs/
-│   ├── figures/
-│   ├── metrics/
-│   ├── predictions/
-│   └── xai/
+├── figures/
+│── metrics/
 │
-├── reports/
-│   ├── supporting_report.pdf
-│   └── presentation.pdf
 │
 └── requirements.txt
 ```
