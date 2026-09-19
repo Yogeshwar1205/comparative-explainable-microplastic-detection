@@ -1,0 +1,3 @@
+split,unique_images,annotation_count,average_objects_per_image
+train,577,5425,9.40207972270364
+valid,204,1701,8.338235294117647

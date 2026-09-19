@@ -1,0 +1,4 @@
+model_name,trainable_parameters
+Faster R-CNN ResNet50-FPN,41076761
+RetinaNet ResNet50-FPN,31946294
+SSD/SSDLite MobileNetV3,3708680
